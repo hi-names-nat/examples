@@ -6,6 +6,7 @@ This is a simple project that contain some of the tools used in the class. For e
 
 - .gitignore
 - Git with commit message in Commitizen convention ([https://commitizen.github.io/cz-cli/](https://commitizen.github.io/cz-cli/)).
+- Github pull requests
 - Makefile
 - Doxygen with Netlify
 - Catch2
@@ -16,6 +17,9 @@ This is a simple project that contain some of the tools used in the class. For e
 
 Some of commit message in this repository are following the Commitizen convention
 ([https://commitizen.github.io/cz-cli/](https://commitizen.github.io/cz-cli/)).
+
+## Github pull requests
+Quiz 2 includes a project that tests student's knowledge of pull requests
 
 ## Doxygen with Netlify
 
